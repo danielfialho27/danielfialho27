@@ -1,91 +1,181 @@
-**# 👨‍💻 Daniel Soares Fialho
 
-Technology Analyst | Software Developer | Data Engineering Enthusiast
+<div align="center">
 
-🎓 Technologist in Systems Analysis and Development (ADS)  
-🎓 Technical Degree in Information Technology  
-📍 Belo Horizonte, MG - Brazil
-💼 LinkedIn: https://linkedin.com/in/danielfialho
+# DANIEL SOARES FIALHO
 
----
+### IT GOVERNANCE | IT AUDIT | RISK MANAGEMENT
 
-## 🚀 About Me
+**GOVERNANÇA DE TI • AUDITORIA • COMPLIANCE • CYBERSECURITY**
 
-I'm a technology professional focused on software development, data engineering, and cloud computing.
+Belo Horizonte — Minas Gerais — Brasil
 
-Currently improving my skills in:
+[LinkedIn](https://linkedin.com/in/danielfialho) · [GitHub](https://github.com/danielfialho27)
 
-- Python
-- SQL
-- Data Engineering
-- ETL Pipelines
-- Cloud Computing
-- Backend Development
-- Data Analysis
+<br>
 
-I enjoy building solutions that automate processes, improve efficiency, and generate business value through technology.
+<img src="https://img.shields.io/badge/IT_GOVERNANCE-0B1F3A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IT_AUDIT-173B63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/COBIT-245A81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ITIL_4-286B8E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INFORMATION_SECURITY-173B63?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🛠️ Technologies
+## 01. PROFESSIONAL PROFILE
 
-### Programming Languages
+Profissional de Tecnologia da Informação com experiência em ambientes corporativos, sustentação de sistemas, administração de acessos, análise de dados, documentação técnica e melhoria de processos.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+Interesse e desenvolvimento profissional direcionados à Governança de TI, Auditoria de Sistemas, Gestão de Riscos, Controles Internos, Segurança da Informação e Compliance.
 
-### Front-End
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Este repositório representa meu ambiente de estudos, documentação e desenvolvimento de projetos voltados à aplicação de boas práticas, frameworks e controles de Tecnologia da Informação.
 
 ---
 
-## 📊 GitHub Statistics
+## 02. GOVERNANCE & FRAMEWORKS
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfialho27&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfialho27&layout=compact)
-
----
-
-## 🏆 Certifications
-
-- IBM Data Engineering Professional Certificate
-- IBM Data Analyst Professional Certificate
-- IBM Python for Data Science
-- Google Data Analytics (em andamento)
-- Cursos de Cloud e Banco de Dados
+| Framework | Aplicação |
+|---|---|
+| COBIT 2019 | Governança e gestão de tecnologia |
+| ITIL 4 | Gestão de serviços de TI |
+| ISO/IEC 27001 | Sistema de Gestão de Segurança da Informação |
+| ISO/IEC 20000 | Gestão de serviços |
+| ISO 31000 | Gestão de riscos |
+| LGPD | Privacidade e proteção de dados |
+| BPMN | Modelagem e gestão de processos |
 
 ---
 
-## 📌 Featured Projects
+## 03. IT AUDIT & INTERNAL CONTROLS
 
-### Sistema de Gestão
-Aplicação web para gerenciamento de processos e informações.
+Áreas de estudo e desenvolvimento:
 
-### Dashboard de Dados
-Dashboard interativo utilizando Python, SQL e visualização de dados.
+- Planejamento de auditoria de TI.
+- Avaliação de controles internos.
+- Auditoria de gestão de acessos.
+- Segregação de funções (SoD).
+- Identificação de não conformidades.
+- Coleta e documentação de evidências.
+- Recomendações e planos de ação.
+- Monitoramento de controles.
 
-### Automação de Processos
-Scripts para automação de tarefas administrativas e análise de dados.
+### Audit Deliverables
+
+| Documento | Objetivo |
+|---|---|
+| Audit Plan | Planejamento de auditoria |
+| Risk Assessment | Avaliação de riscos |
+| Control Matrix | Matriz de controles |
+| RACI Matrix | Responsabilidades |
+| Audit Findings | Registro de achados |
+| Action Plan | Plano de ação corretiva |
 
 ---
 
-## 📫 Contact
+## 04. RISK MANAGEMENT
 
-- LinkedIn: https://linkedin.com/in/danielfialho
-- Email: danielsoaresfialho@gmail.com**
+Estrutura de gestão e monitoramento de riscos tecnológicos:
+
+- Identificação de riscos.
+- Análise de probabilidade e impacto.
+- Avaliação de riscos inerentes e residuais.
+- Definição de controles mitigatórios.
+- Planos de tratamento.
+- Indicadores e monitoramento.
+
+**Metodologias:** ISO 31000 | COBIT 2019 | Gestão de Riscos de TI.
+
+---
+
+## 05. INFORMATION SECURITY & COMPLIANCE
+
+- Gestão de identidade e acessos (IAM).
+- Controle de privilégios.
+- Segurança de sistemas corporativos.
+- Proteção de dados pessoais.
+- Gestão de vulnerabilidades.
+- Políticas e procedimentos de segurança.
+- Conformidade com a LGPD.
+- Controles de Segurança da Informação.
+
+**Referências:** ISO/IEC 27001 | ISO/IEC 27002 | LGPD.
+
+---
+
+## 06. IT SERVICE MANAGEMENT
+
+Conhecimentos e áreas de desenvolvimento relacionados ao ITIL 4:
+
+- Incident Management.
+- Problem Management.
+- Change Enablement.
+- Service Request Management.
+- Service Configuration Management.
+- Continual Improvement.
+- Service Level Management.
+
+---
+
+## 07. TECHNOLOGY & DATA
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,windows,java,html,css,js" />
+
+</div>
+
+**Ferramentas e tecnologias:**
+
+- SQL e MySQL.
+- Excel Avançado.
+- Active Directory.
+- Sistemas ERP e aplicações corporativas.
+- Git e GitHub.
+- Windows e Linux.
+- Análise e documentação de dados.
+
+---
+
+## 08. FEATURED PROJECTS
+
+Projetos de portfólio e documentação técnica:
+
+| Repositório | Descrição |
+|---|---|
+| IT Governance | Governança de TI baseada em COBIT |
+| IT Audit | Auditoria e controles internos |
+| Risk Management | Matriz e tratamento de riscos |
+| ITSM | Gestão de serviços baseada em ITIL |
+| Information Security | Segurança da Informação |
+| LGPD Compliance | Privacidade e conformidade |
+| SQL Analytics | Consultas e análise de dados |
+
+*Os projetos serão documentados e desenvolvidos progressivamente.*
+
+---
+
+## 09. PROFESSIONAL DEVELOPMENT
+
+Foco de desenvolvimento:
+
+- Governança Corporativa de TI.
+- Auditoria de Tecnologia da Informação.
+- Gestão de Riscos e Controles Internos.
+- Segurança Cibernética.
+- Gestão de Serviços de TI.
+- Compliance e Proteção de Dados.
+
+---
+
+<div align="center">
+
+### TECHNOLOGY | GOVERNANCE | RISK | SECURITY
+
+**Transformando tecnologia em governança, controle e valor para o negócio.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-danielfialho27-181717?style=for-the-badge&logo=github)](https://github.com/danielfialho27)
+
+</div>
